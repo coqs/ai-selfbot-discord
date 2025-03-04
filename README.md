@@ -1,5 +1,5 @@
 # ai-selfbot-discord
-an ai bot that automates sending discord messages replying to people's messages using gemini's flash AI api and uses node.js and Selenium (aka the main resource)
+an ai bot that automates sending discord messages replying to people's messages using gemini's flash AI api and uses node.js, javascript and Selenium (aka the main resource)
 
 to use:
 1) make a new folder and put in the script.js
